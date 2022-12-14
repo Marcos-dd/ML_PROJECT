@@ -15,5 +15,7 @@ Detección temprana de cardiopatías con Machine Learning
  El EDA y el Pipeline lo podrás encontrar en:  
   https://github.com/Marcos-dd/ML_PROJECT/blob/main/src/notebooks/V1.ipynb  
  
--> ***Script del modelo entrenado*** --> train_model.py https://github.com/Marcos-dd/ML_PROJECT/blob/main/train_model.py  
--> ***Presentación ejecutiva*** --> https://github.com/Marcos-dd/ML_PROJECT/blob/main/PRESENTACI%C3%93N_Detecci%C3%B3n%20temprana%20de%20cardiopat%C3%ADas%20con%20Machine%20Learning.pdf
+-> ***Script para entrenar el modelo con mejor score*** --> train_model.py  
+https://github.com/Marcos-dd/ML_PROJECT/blob/main/train_model.py  
+-> ***Presentación ejecutiva***    
+https://github.com/Marcos-dd/ML_PROJECT/blob/main/PRESENTACI%C3%93N_Detecci%C3%B3n%20temprana%20de%20cardiopat%C3%ADas%20con%20Machine%20Learning.pdf
